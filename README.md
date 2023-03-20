@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=XHrbg2iYNCg&list=PLnDvRpP8BnezfJcfiClWskFOLODeqI
 Curso Next.js: Hello World no Next.js - #02
 Curso Next.js: Estrutura de pastas e arquivos do Next - #03
 Curso Next.js: Criando páginas e roteamento - #04
+Curso Next.js: Nested routes em Next - #05
+Curso Next.js: Navegação entre páginas (Componente Link) - #06
