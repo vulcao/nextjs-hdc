@@ -1,10 +1,9 @@
-import Link from 'next/link'
-
+import Navbar from '../../components/navbar'
 export default function Produtos() {
   return(
     <>
     <h3>Produtos</h3>
-    <Link href='/'>Voltar</Link>
+    <Navbar></Navbar>
     </>
   )
 }
