@@ -1,10 +1,7 @@
-import Navbar from '../components/navbar'
-
 export default function About() {
   return(
     <>
-    <h3>Este é o about</h3>
-    <Navbar></Navbar>
+    <h1>Este é o about</h1>
     </>
   )
 }

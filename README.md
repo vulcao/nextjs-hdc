@@ -10,3 +10,4 @@ Curso Next.js: Criando páginas e roteamento - #04
 Curso Next.js: Nested routes em Next - #05
 Curso Next.js: Navegação entre páginas (Componente Link) - #06
 Curso Next.js: Componentes no Next - #07
+Curso Next.js: Componente de Layout - #08
