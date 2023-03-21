@@ -9,6 +9,10 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
+    <Head>
+      <title>Página Principal</title>
+      <meta name="keywords" content="Roupas, Calçados e Etc"></meta>
+    </Head>
     <h1>Hello world!</h1>
     </>
   )
