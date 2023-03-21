@@ -13,3 +13,4 @@ Curso Next.js: Componentes no Next - #07
 Curso Next.js: Componente de Layout - #08
 Curso Next.js: Adicionando CSS no Next.js - #09
 Curso Next.js: Meta tags no Next - #10
+Curso Next.js: Assets - #11
