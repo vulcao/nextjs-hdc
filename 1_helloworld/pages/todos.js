@@ -10,14 +10,14 @@ export async function getStaticProps() {
   }
 }
 
-export default function Todos({todos}) {
+export default function Todos({ todos }) {
   return (
     <>
       <h1>Tarefas para realizar</h1>
       <ul className={styles.todolist}>
-        {todos.map((todo) => {
+        {todos.map((todo) => (
           <li key={todo.id}>{todo.title}</li>
-        })}
+        ))}
       </ul>
     </>
   )
