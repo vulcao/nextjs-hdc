@@ -16,3 +16,6 @@ Curso Next.js: Meta tags no Next - #10
 Curso Next.js: Assets - #11
 Curso Next.js: Fetch data com Next (requisição em API) - #12
 Curso Next.js: Dynamic Routes - #13
+Curso Next.js: Rotas dinâmicas com dados - #14
+Curso Next.js: Página 404 customizada - #15
+Curso Next.js: Analisando build - #16
