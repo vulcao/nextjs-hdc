@@ -8,7 +8,7 @@ export default function Produtos() {
       <meta name="keywords" content="Roupas, Calçados e Etc"></meta>
     </Head>
     <h1>Produtos</h1>
-    
+    <p>Esse é o index.js</p>
     </>
   )
 }

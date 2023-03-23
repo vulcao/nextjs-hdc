@@ -18,7 +18,7 @@ export default function Navbar() {
         >Sobre</Link>
       </li>
       <li>
-        <Link href='/todos'
+        <Link href='/todos/'
         >Pre-render</Link>
       </li>
     </ul>
