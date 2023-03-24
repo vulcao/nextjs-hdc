@@ -19,3 +19,5 @@ Curso Next.js: Dynamic Routes - #13
 Curso Next.js: Rotas dinâmicas com dados - #14
 Curso Next.js: Página 404 customizada - #15
 Curso Next.js: Analisando build - #16
+Avançar:
+Curso Next.js: Apresentação do projeto - #17
