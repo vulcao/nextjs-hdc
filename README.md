@@ -27,4 +27,4 @@ pra procurar um rest-api em node com deploy pra vercer também
 Curso Next.js: Iniciando projeto - #18
 apesar da estrutura usada aqté aqui para o projeto com deploy na vercel
 e preciso um novo repositório, que seja executado da raiz...
-Vou criar um novo no GitHub e clonar em xxxx
+Vou criar um novo no GitHub e clonar em https://github.com/vulcao/pokenext-hdc
