@@ -19,3 +19,12 @@ Curso Next.js: Dynamic Routes - #13
 Curso Next.js: Rotas dinâmicas com dados - #14
 Curso Next.js: Página 404 customizada - #15
 Curso Next.js: Analisando build - #16
+Curso Next.js: Apresentação do projeto - #17
+...
+esse curso vai focar no front-end, preciso procurar um projeto de back-end
+pra procurar um rest-api em node com deploy pra vercer também
+...
+Curso Next.js: Iniciando projeto - #18
+apesar da estrutura usada aqté aqui para o projeto com deploy na vercel
+e preciso um novo repositório, que seja executado da raiz...
+Vou criar um novo no GitHub e clonar em xxxx
